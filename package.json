@@ -1,6 +1,6 @@
 {
   "name": "batch-file-rename",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "批量更改文件后缀名(支持相对路径/绝对路径)",
   "main": "index.js",
   "scripts": {},
@@ -15,5 +15,17 @@
   "dependencies": {
     "chalk": "^1.1.3",
     "commander": "^2.9.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ly2011/batch-file-rename.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ly2011/batch-file-rename/issues"
+  },
+  "homepage": "https://github.com/ly2011/batch-file-rename#readme"
 }
