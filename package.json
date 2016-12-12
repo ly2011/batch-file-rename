@@ -1,0 +1,19 @@
+{
+  "name": "batch-file-rename",
+  "version": "0.0.1",
+  "description": "批量更改文件后缀名(支持相对路径/绝对路径)",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "batch-file-rename": "./index.js"
+  },
+  "keywords": [
+    "batch rename"
+  ],
+  "author": "ly",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
+  }
+}
