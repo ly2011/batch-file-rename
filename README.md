@@ -11,5 +11,5 @@ npm install -g batch-file-rename
 ## USAGE
 
 ```js
-$ batch-file-rename -d my-project -f txt -t md'
+$ batch-file-rename -d my-project -f txt -t md
 ```
